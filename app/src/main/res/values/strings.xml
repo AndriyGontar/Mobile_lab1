@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_text_view_text">madera</string>
+    <string name="my_text_view_text_new">madera new</string>
+
+</resources>
